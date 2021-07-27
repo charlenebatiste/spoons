@@ -20,7 +20,7 @@ This project was developed for the mintbean Jr Developers Hiring Hackathons, Jul
 
 ### Tech Stack
 
--   ReacjJS
+-   ReactJS
 
 ### Team
 
